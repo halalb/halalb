@@ -42,6 +42,7 @@
 ## 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/hasib-uddin-130572198/)  
+
 📧 [hasib.uddinmahi@gmail.com](mailto:hasib.uddinmahi@gmail.com)
 
 
