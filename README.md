@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello — I'm Hasib Uddin
 
-<!--
-**halalb/halalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BSc Computer Science @ Goldsmiths, University of London  
+🧠 Self-taught everything I should’ve learned in uni — the hard way  
+💻 Aspiring full-stack developer with focus on AI, backend, and real-world execution
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+
+- 📚 [BettysBooks](https://github.com/halalb/bettysbooks)  
+  Full-stack Node.js CRUD app for managing books and users
+
+- 💱 [Databaseproject](https://github.com/halalb/Databaseproject)  
+  Currency converter app with user login + conversion history
+
+- 🤖 [Machine Learning Project](https://github.com/halalb/Machine-learning-project)  
+  Regression + classification using body temperature sensor data
+
+- 🔍 [Data Mining Project](https://github.com/halalb/Data-Mining-project)  
+  Credit default & sonar object classification using kNN & SVM
+
+- 🕌 [QuranApp](https://github.com/halalb/quranapp)  
+  AI-powered Quran chatbot with Retrieval-Augmented Generation (RAG)
+
+---
+
+## 🧰 Tech Stack
+
+`JavaScript` | `Node.js` | `Express` | `EJS` | `Python` | `Flask`  
+`MySQL` | `Pandas` | `Scikit-learn` | `LangChain` | `LLMs` | `HTML/CSS`
+
+---
+
+## 📈 Current Focus
+
+- Building AI-powered Islamic tools (Quran, Hadith, Tafsir)
+- Learning React, Docker, and deployment on cloud
+- Becoming the engineer I thought I’d be when I chose this path
+
+---
+
+## 💬 Let's Connect
+
+🔗 [LinkedIn](www.linkedin.com/in/hasib-uddin-130572198)
+📧 Email me: hasib.uddinmahi@gmail.com  
+
