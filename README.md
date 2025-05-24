@@ -1,7 +1,6 @@
 # 👋 Hello — I'm Hasib Uddin
 
 🎓 Final Year BSc Computer Science @ Goldsmiths, University of London  
-🧠 Self-taught everything I should’ve learned in uni — the hard way  
 💻 Aspiring full-stack developer with focus on AI, backend, and real-world execution
 
 ---
